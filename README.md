@@ -1,4 +1,6 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)](https://rishavchanda.io)
+<img width="4688" height="1563" alt="Software Developer" src="https://github.com/user-attachments/assets/bedce9df-eeca-4723-823d-1dc87b567bef" />
+
+
 <h1 align="center">Hi 👋, I'm Sohom</h1>
 <p align="center"><strong>A self-taught web developer</strong></p>
 <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/skatetocat.png">
