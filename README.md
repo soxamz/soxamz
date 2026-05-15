@@ -1,5 +1,3 @@
-<img width="1500" height="500" alt="Software Developer" src="https://github.com/user-attachments/assets/cfa4c67a-2861-40a7-9459-5b3e508f9a09" />
-
 <h1 align="center">Hi 👋, I'm Sohom</h1>
 <p align="center"><strong>A self-taught web developer</strong></p>
 <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/skatetocat.png">
