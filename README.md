@@ -1,6 +1,9 @@
+<img width="2109" height="469" alt="Software Developer (4)" src="https://github.com/user-attachments/assets/d39951e5-3d34-4217-b6c1-75014c5d1f25" />
+
+
 <div align="center">
 
-# Hi, I'm Sohom 👋
+# Hi, I'm Sohom
 
 <a href="https://github.com/soxamz?tab=followers"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/followers/soxamz.svg?variant=secondary&amp;size=sm&amp;mode=dark&amp;font=geist"><img alt="GitHub Followers" src="https://www.shieldcn.dev/github/followers/soxamz.svg?variant=secondary&amp;size=sm&amp;mode=light&amp;font=geist"></picture></a> <a href="https://github.com/soxamz?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/user-stars/soxamz.svg?variant=secondary&amp;size=sm&amp;mode=dark&amp;font=geist"><img alt="GitHub Stars" src="https://www.shieldcn.dev/github/user-stars/soxamz.svg?variant=secondary&amp;size=sm&amp;mode=light&amp;font=geist"></picture></a> <a href="https://github.com/soxamz?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/Repos-22-2563eb.svg?logo=github&amp;variant=secondary&amp;size=sm&amp;mode=dark&amp;font=geist"><img alt="Public Repos" src="https://www.shieldcn.dev/badge/Repos-22-2563eb.svg?logo=github&amp;variant=secondary&amp;size=sm&amp;mode=light&amp;font=geist"></picture></a> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/Location-India-6366f1.svg?logo=googlemaps&amp;variant=ghost&amp;size=sm&amp;mode=dark&amp;font=geist"><img alt="Location" src="https://www.shieldcn.dev/badge/Location-India-6366f1.svg?logo=googlemaps&amp;variant=ghost&amp;size=sm&amp;mode=light&amp;font=geist"></picture>
 </div>
@@ -8,7 +11,12 @@
 <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/skatetocat.png">
 
 ### About Me:
-🔭 I’m currently working on [Panery](https://www.panery.org).<br>👯 I’m looking to collaborate on web based projects.<br>🤝 I’m looking for help with design & optimization.<br>🌱 I’m currently learning UX design.<br>💬 Ask me about the web.<br>⚡ Fun fact: I can center a div.
+- Currently working on [Panery](https://www.panery.org).
+- Looking to collaborate on a **SaaS Application**.
+- Looking for help with **Web Design & Optimization**.
+- I’m currently learning **Data Structures and Algorithms**.
+- Ask me about **Software Engineering**.
+
 
 ### Social:
 <a href="https://github.com/soxamz"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/GitHub-%40soxamz-181717.svg?logo=github&amp;variant=branded&amp;size=sm&amp;mode=dark&amp;font=geist"><img alt="GitHub" src="https://www.shieldcn.dev/badge/GitHub-%40soxamz-181717.svg?logo=github&amp;variant=branded&amp;size=sm&amp;mode=light&amp;font=geist"></picture></a> <a href="https://x.com/soxamz"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/x/follow/soxamz.svg?variant=branded&amp;size=sm&amp;mode=dark&amp;font=geist"><img alt="X Follow" src="https://www.shieldcn.dev/x/follow/soxamz.svg?variant=branded&amp;size=sm&amp;mode=light&amp;font=geist"></picture></a> <a href="https://soxamz.me"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/Website-soxamz.me-181717.svg?logo=ri%3ALuLink&amp;variant=branded&amp;size=sm&amp;mode=dark&amp;font=geist"><img alt="Website" src="https://www.shieldcn.dev/badge/Website-soxamz.me-181717.svg?logo=ri%3ALuLink&amp;variant=branded&amp;size=sm&amp;mode=light&amp;font=geist"></picture></a>
