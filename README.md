@@ -1,5 +1,4 @@
-<img width="2109" height="469" alt="Software Developer (4)" src="https://github.com/user-attachments/assets/d39951e5-3d34-4217-b6c1-75014c5d1f25" />
-
+<img width="2109" height="469" alt="Software Developer" src="https://github.com/user-attachments/assets/5447d696-171b-432b-aa2a-f32cd63d3ecb" />
 
 <div align="center">
 
